@@ -62,7 +62,7 @@ The primary goal of this analysis is to evaluate sales distribution, regional pe
 
 ## 👤 Author & Contact
 
-Muhammad Fathi Al-Bahwar
+Muhammad F. Al-Behwar
 
 GitHub: [[Click Here](https://github.com/MohamedAlbehwar)]
 
